@@ -1,6 +1,5 @@
-body {
+html {
   font-family: Helvetica;
-
 }
 
 .hero {
@@ -14,27 +13,44 @@ body {
   font-weight: bold;
 }
 
+.Process {
+  text-align: center;
+}
+
 .btn-nav {
   font-size: 18px;
   color: white;
 }
 
 h2 {
-  text-align: center;
   font-size: 32px;
   font-weight: bold;
 }
 
-.body {
-  text-align: center;
-}
 
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+.supporting {
   text-align: center;
 }
 
 .p {
   font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+
+
 }
